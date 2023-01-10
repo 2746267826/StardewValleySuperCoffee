@@ -1,0 +1,11 @@
+{
+	"Name": "GetCoffee",
+	"Author": "Li_Zis",
+	"Version": "1.0.0",
+	"Description": "开局在邮件中获取9999个666感冒灵",
+	"UniqueID": "L.Coffee_Get",
+	"MinimumApiVersion": "2.11.3",
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.MailFrameworkMod"
+	}
+}
