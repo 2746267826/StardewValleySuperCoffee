@@ -1,9 +1,9 @@
 {
-  "Name": "CoffeeChange",
+  "Name": "[CP]CoffeeChange",
   "Author": "Li_Zis",
-  "Version": "1.0",
-  "Description": "修改了咖啡的名称、简介、售价、Buff以及Buff持续时间",
-  "UniqueID": "L.Coffee",
+  "Version": "1.1.0",
+  "Description": "修改咖啡及其衍生物以实现666感冒灵及其衍生物",
+  "UniqueID": "L.CPCoffee",
   "MinimumApiVersion": "3.0",
   "UpdateKeys": [],
   "ContentPackFor": {

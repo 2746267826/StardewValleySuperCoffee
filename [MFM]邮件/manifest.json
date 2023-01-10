@@ -1,9 +1,9 @@
 {
-	"Name": "GetCoffee",
+	"Name": "[MFM]GetCoffee",
 	"Author": "Li_Zis",
-	"Version": "1.0.0",
-	"Description": "开局在邮件中获取9999个666感冒灵",
-	"UniqueID": "L.Coffee_Get",
+	"Version": "1.1.0",
+	"Description": "开局在邮件中获取东方机器以及9999个666感冒灵",
+	"UniqueID": "L.MFMCoffee_Get",
 	"MinimumApiVersion": "2.11.3",
 	"ContentPackFor": {
 		"UniqueID": "DIGUS.MailFrameworkMod"
