@@ -1,0 +1,11 @@
+{
+    "Name": "BreadChange_Price",
+    "Author": "Li_Zis",
+    "Version": "1.0.0",
+    "Description": "修改了面包的售价",
+    "UniqueID": "L.BreadPrice",
+    "UpdateKeys": [], 
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

@@ -1,0 +1,12 @@
+{
+   "Action": "EditData",
+   "Target": "Data/NPCGiftTastes",
+   "TextOperations": [
+      {
+         "Operation": "Append",
+         "Target": ["Entries", "Universal_Hate"],
+         "Value": "395 253",
+         "Delimiter": " "
+      }
+   ]
+}

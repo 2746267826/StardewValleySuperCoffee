@@ -1,0 +1,14 @@
+{
+  "Format": "1.6",
+			
+  	"Changes": [
+
+	{	  	
+    "Action": "EditData",
+    "Target": "Data/CookingRecipes",
+	"Fields": {
+	"Coffee": { 0: "388 1" }
+		},
+	},
+	]
+}

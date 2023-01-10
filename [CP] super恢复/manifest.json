@@ -1,0 +1,11 @@
+{
+  "Name": "BreadChange_EnergyAndLife",
+  "Author": "Li_Zis",
+  "Version": "1.0",
+  "Description": "大幅修改了面包的能量和生命恢复效果",
+  "UniqueID": "L.BreadEnergyAndLife",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}
